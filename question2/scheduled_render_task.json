@@ -1,0 +1,35 @@
+[
+    {
+        "work_001": [
+            "fly150.Lighting.ma,1,80, Pigeon",
+            "fly150.Lighting.ma,4,80, Pigeon",
+            "fly150.Lighting.ma,7,80, Pigeon",
+            "fly160.Lighting.ma,1,60, Pigeon",
+            "fly160.Lighting.ma,4,60, Pigeon",
+            "fly160.Lighting.ma,7,60, Pigeon"
+        ],
+        "limit": 12.0
+    },
+    {
+        "work_002": [
+            "fly150.Lighting.ma,2,80, Pigeon",
+            "fly150.Lighting.ma,5,80, Pigeon",
+            "fly150.Lighting.ma,8,80, Pigeon",
+            "fly160.Lighting.ma,2,60, Pigeon",
+            "fly160.Lighting.ma,5,60, Pigeon",
+            "fly160.Lighting.ma,8,60, Pigeon"
+        ],
+        "limit": 12.0
+    },
+    {
+        "work_003": [
+            "fly150.Lighting.ma,3,80, Pigeon",
+            "fly150.Lighting.ma,6,80, Pigeon",
+            "fly160.Lighting.ma,3,60, Pigeon",
+            "fly160.Lighting.ma,6,60, Pigeon",
+            "fly160.Lighting.ma,9,60, Pigeon",
+            "fly160.Lighting.ma,10,60, Pigeon"
+        ],
+        "limit": 12.0
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "paths":[
+        {"client": "/fromClient/"},
+        {"dest_root": "/pipeline/"},
+        {"shots": "/shots/"},
+        {"exr": "/plates/PlateBG/exr/"},
+        {"cc": "/color_workflow/color_workflow/grading/grade/"},
+        {"cube": "/color_workflow/color_workflow/LUTs/lut/"},
+        {"hdri": "/lighting/hdris/hdri/"},
+        {"video": "/reference/"}
+    ],
+      "ora":
+     {
+         "shots":[
+             "ban_010",
+             "ban_020",
+             "ban_030",
+             "ban_040",
+             "gym_010",
+             "gym_020",
+             "gym_030",
+             "gym_050"
+         ]
+     }
+}
